@@ -1,0 +1,10 @@
+# Visual Studio / MSBuild
+.vs/
+bin/
+obj/
+*.user
+*.sdf
+*.suo
+
+# на всякий случай, если кто-то соберёт локально
+!examples/sample.exe
